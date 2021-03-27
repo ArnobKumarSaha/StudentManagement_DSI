@@ -1,0 +1,5 @@
+usage:
+    [commands] [options]
+
+options :       Details:
+1) --all        Add a student by giving the details of him/her.

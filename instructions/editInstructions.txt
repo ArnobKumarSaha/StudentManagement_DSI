@@ -1,0 +1,11 @@
+usage:
+    [commands] [options] [others]
+
+options :                         details:
+1) name [value] (Type String)     Student_name to which you want to edit. 
+
+others :                          details:
+1) day [value] (Type Int)         How many days you want to add with totalDays.
+2) mark [value] (Type Double)     What is the mark , this student got ? 
+
+For example, "edit name Maruf raihan mark 80" command will add marks 80 to student named Maruf raihan.

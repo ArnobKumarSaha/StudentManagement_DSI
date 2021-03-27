@@ -1,0 +1,14 @@
+
+usage:
+    [commands] [options]
+
+commands :      Details:
+1) add          Add a student by giving the details of him/her.
+2) edit         Edit a particual field.
+3) delete       Delete a student data.
+4) show         Show single or multiple field about students.
+5) --help       See otions.
+6) stop         Terminate the whole process.
+
+Use --help for after these commands to see the options.
+For exapmle, "add --help" will print all the instructions you can give after 'add' command.

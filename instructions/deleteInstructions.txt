@@ -1,0 +1,5 @@
+usage:
+    [commands] [options]
+
+options :                         details:
+1) name [value] (Type String)     Student_name to which you want to delete. 

@@ -1,0 +1,7 @@
+usage:
+    [commands] [options]
+
+options :                         details:
+1) name [value] (Type String)     Give the name of student ,about whom you are interested see.
+2) --all                          To see all student details.
+3) class [value] (Type int)       To see all student details of a particual class.
